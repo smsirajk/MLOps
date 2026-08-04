@@ -20,7 +20,7 @@ We use a Random Forest Classifier trained on the Pima Indians Diabetes Dataset.
 
 
 1. Clone the Repo
-git clone https://github.com/iam-veeramalla/first-mlops-project.git
+git clone https://github.com/smsirajk/MLOps.git
 cd first-mlops-project
 2. Create Virtual Environment
 python3 -m venv .mlops
